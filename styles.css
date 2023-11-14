@@ -65,6 +65,7 @@ body {
     text-align: center;
     color: #555;
     margin: auto;
+    max-width: 300px;
   }
   
   .card {
